@@ -1,0 +1,27 @@
+{
+  "name": "web3balanceserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "avalanche": "^3.15.5",
+    "delphirtl": "^1.1.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "http-terminator": "^3.2.0",
+    "json-rpc-2.0": "^1.4.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^4.8.4"
+  }
+}
