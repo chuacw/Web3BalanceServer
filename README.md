@@ -10,8 +10,10 @@ In order to run this,
 Note: A configuration file must be created.
 The configuration file needs to be named .env and needs to contain wssUrl with the value being the URL to use.
 
-Eg, .env
-wssUrl=wss://blahblahblah/9234098230482304
+Eg, 
+.env   
+wssUrl=wss://blahblahblah/9234098230482304   
+
 
 JSON RPC commands can be sent either using curl, or Postman, depending on the user's preference.
 
