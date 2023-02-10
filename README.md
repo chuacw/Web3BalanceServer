@@ -31,6 +31,8 @@ Send the following JSON RPC messages:
         "0x56Eddb7aa87536c09CCc2793473599fD21A8b17F"
 }
 ```
+![Running Web3BalanceServer](https://chuacw.github.io/images/ts-node%20runWeb3BalanceServer.png "Running Web3BalanceServer")
+
 * To get asset ID:
 ```
 {
